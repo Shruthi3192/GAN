@@ -10,7 +10,7 @@ arXiv preprint arXiv:1511.06434.
 https://arxiv.org/abs/1511.06434
 This paper explains working with Deep Convolutional Generative Adversarial Networks
 
-The end result of the generation can be seen in the output of the ipynb file
+The end result of the generation can be seen in the output file TensorBoard_output.JPG
 
 This technique uses Discriminator and Generator networks. The Generator network is built from noise of dimension 256.
 The images used for this project is grey scale images hence number of channels of the input and output images are 1.
