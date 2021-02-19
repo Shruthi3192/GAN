@@ -1,5 +1,4 @@
 # GAN
-Experimenting with GANs
 
 This projects uses MNSIT hand written images of numbers.
 It uses the DCGAN technique for implementation.
